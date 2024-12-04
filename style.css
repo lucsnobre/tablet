@@ -190,11 +190,11 @@ main {
         align-items: center;
         justify-content: center;
         padding-left: 50px;
-    padding-bottom: 30px;
+   
 }
 
 .arquivo1 h2 {
-    padding-top: 30px;
+    padding-bottom: 10px ;
     align-items: center;
     justify-content: center;
     padding-left: 1000px;
