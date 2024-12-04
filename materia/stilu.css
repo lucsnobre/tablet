@@ -115,3 +115,37 @@ main img{
     height: 58vh;
     border-radius: 10vh;
 }
+
+@media (max-width:960px),(max-height: 1000px) {
+    /* h1{
+        font-size: 170px;
+        top: -100px;
+        width: 1276px;
+        margin-bottom: 700px;
+    }
+
+    .text-content1 h3{
+        font-size: 20px;
+        align-items: center;
+        width: px;
+    }
+    .text-content h3 {
+        font-size: 20px;
+        align-items: center;
+        margin-top: 100px;
+        width: px;
+    }
+
+    */
+    main img {
+        height: 890px;
+        width: 890px;
+        margin-top: -250px;
+    } 
+     main{
+        flex-direction: column;
+     }
+     h3{
+        text-align: center;
+     }
+}
