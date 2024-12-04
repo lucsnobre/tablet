@@ -195,11 +195,11 @@ h2{
     align-items: center;
     padding-block: 2vh;
     background-color: rgb(237, 237, 231);
-    height: 37vh;
+    height: 30vh;
     width: 19%;
     position: absolute;
     top: 49%;
-    left: 10%;
+    left: 9.5%;
     border-radius: 9px;
     border: 0.5px solid #ccc;;
     z-index: -1;
@@ -224,11 +224,11 @@ h2{
     align-items: center;
     padding-block: 2vh;
     background-color: rgb(237, 237, 237);
-    height: 37vh;
+    height: 30vh;
     width: 17%;
     position: absolute;
     top: 53%;
-    left: 42%;
+    left: 42.7%;
     border-radius: 9px;
     border: 0.5px solid #ccc;;
     z-index: -1;
